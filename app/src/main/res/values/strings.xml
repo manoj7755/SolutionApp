@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SolutionApp</string>
+    <string name="sorted_by_largest_area_first">Sorted By Largest Area First:</string>
+    <string name="output_of_program">Output of program</string>
+</resources>
